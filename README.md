@@ -64,7 +64,7 @@ https://en.wikipedia.org/wiki/Punt_(boat)
 
 ## Contributing
 
-No outside contributions are expected for this repo.
+See [CONTRIBUTING](CONTRIBUTING.md) for guidelines.
 
 ## License
 
