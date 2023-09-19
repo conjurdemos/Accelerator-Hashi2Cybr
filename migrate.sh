@@ -6,14 +6,10 @@
 #
 #      # CyberArk PAS vars
 #      PAS_ENDPOINT="https://pasvault.example.com" # Do NOT append "/PasswordVault/"
-#      PAS_USER="administrator"
-#      PAS_PASS="user password"
-#      
 #      
 #      # HC Vault vars
 #      VAULT_ADDR="https://hcvault.example.com:8200"
 #      VAULT_SKIP_VERIFY=false   # Use only if using self-signed certificate
-#      VAULT_TOKEN="api token"
 
 set -o allexport
 
