@@ -19,6 +19,8 @@ This repo will demonstrate a simple way to migrate Hashi Vault KV secrets into P
 * Local machine
   * [Install podman](https://podman.io/docs/installation)
   * [Install GNU make](https://www.gnu.org/software/make/)
+* TODO:  add pre-requirements for the roles and skillset
+  * REF: <https://docs.aws.amazon.com/prescriptive-guidance/latest/patterns/visualize-iam-credential-reports-for-all-aws-accounts-using-amazon-quicksight.html>
 
 ### Implementation Steps
 
