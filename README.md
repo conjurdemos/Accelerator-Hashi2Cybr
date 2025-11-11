@@ -1,6 +1,8 @@
 # Hashi2Cybr Migration Starter
 
-<!-- Update: <2023-09-18 17:28:46 david.hisel> -->
+## DEPRECATED
+
+Recommended to use SecretsHub Hashi secret store.
 
 ## Introduction -- THIS IS A DRAFT IMPLEMENTATION
 
