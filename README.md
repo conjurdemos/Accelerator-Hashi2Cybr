@@ -1,5 +1,9 @@
 # Hashi2Cybr Migration Starter
 
+## ARCHIVED
+
+This repo is set to read-only.
+
 ## DEPRECATED
 
 Recommended to use SecretsHub Hashi secret store.
